@@ -97,7 +97,7 @@ Quelques types de projets que je développe ou améliore :
 
 - 🌐 Portfolio : [bryantank.com](https://bryantank.com)
 - 💼 LinkedIn : [Bryan Tank](https://www.linkedin.com/in/bryan-tank-937b40326/)
-- 🧑‍💻 GitHub : [@TON_USERNAME](https://github.com/TankBryan)
+- 🧑‍💻 GitHub : [@TankBryan](https://github.com/TankBryan)
 
 ---
 
