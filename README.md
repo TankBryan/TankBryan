@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Bryan Tank
 
-Je suis **développeur web front-end & back-end** basé en Suisse 🇨🇭.  
+Je suis **développeur web front-end & back-end**.
 Je m’intéresse principalement au **développement web**, à la création d’applications modernes, aux outils numériques et aux technologies qui permettent de construire des projets utiles, propres et maintenables.
 
 J’aime particulièrement travailler avec **JavaScript**, **Vue.js**, **Nuxt**, **Node.js**, mais je touche aussi à **Python**, **Java**, aux systèmes Linux et à l’administration de serveurs.
@@ -10,7 +10,6 @@ J’aime particulièrement travailler avec **JavaScript**, **Vue.js**, **Nuxt**,
 ## 🚀 À propos de moi
 
 - 💻 Développeur web front-end & back-end
-- 🇨🇭 Basé en Suisse
 - 🧠 Curieux, autonome et toujours en apprentissage
 - 🛠️ Intéressé par les applications web, les APIs, les interfaces propres et les projets concrets
 - 🌐 Portfolio officiel : [bryantank.com](https://bryantank.com)
